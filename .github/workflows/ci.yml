@@ -24,25 +24,26 @@ jobs:
           java-version: '17'
           distribution: 'temurin'
           cache: 'gradle'
+          cache-dependency-path: android/gradle/wrapper/gradle-wrapper.properties
 
       - name: Grant execute permission for gradlew
         run: chmod +x gradlew
-        working-directory: .
+        working-directory: android
 
       - name: Run Android Lint Checks
         run: ./gradlew lintDebug
-        working-directory: .
+        working-directory: android
 
       - name: Run Unit Tests
         run: ./gradlew testDebugUnitTest
-        working-directory: .
+        working-directory: android
 
       - name: Upload Android Test Results
         if: always()
         uses: actions/upload-artifact@v4
         with:
           name: android-test-results
-          path: app/build/reports/tests/testDebugUnitTest/
+          path: android/app/build/reports/tests/testDebugUnitTest/
 
   # ------------------------------------------------------------------
   # JOB 2: .NET 8 Web API Build & Test
