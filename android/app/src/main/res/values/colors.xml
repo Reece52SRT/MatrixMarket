@@ -1,0 +1,11 @@
+<resources>
+    <color name="matrix_black">#0D0D0F</color>
+    <color name="matrix_gold">#D4AF37</color>
+    <color name="royal_purple">#6B4EFF</color>
+    <color name="neon_purple">#9D7BFF</color>
+    <color name="lavender_light">#EDE7FA</color>
+    <color name="lavender_card">#D8CCF5</color>
+    <color name="text_dark">#1A1A1D</color>
+    <color name="success_green">#2ECC71</color>
+    <color name="warning_amber">#F2A93B</color>
+</resources>

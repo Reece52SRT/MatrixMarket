@@ -1,0 +1,49 @@
+<resources>
+    <string name="app_name">Matrix Market</string>
+    <string name="tagline">Kampus Geverifieer. Die veiligste manier om handboeke, toerusting en noodsaaklikhede by jou instelling te verhandel.</string>
+    <string name="continue_student_email">Gaan voort met Studente-e-pos</string>
+    <string name="continue_google">Gaan voort met Google SSO</string>
+    <string name="welcome_back">Welkom by Matrix Market</string>
+    <string name="login">Meld aan</string>
+    <string name="create_account">Skep Rekening</string>
+    <string name="current_listings">Huidige Lystings</string>
+    <string name="search_hint">Soek handboeke, modules, toerusting...</string>
+    <string name="selling">Verkoop</string>
+    <string name="create_new_listing">Skep nuwe lysting</string>
+    <string name="publish_listing">Publiseer Lysting</string>
+    <string name="trade_meeting">Ruil-ontmoeting</string>
+    <string name="trade_meetings">Ruil-ontmoetings</string>
+    <string name="schedule_meeting">Skeduleer Ontmoeting</string>
+    <string name="settings">Instellings</string>
+    <string name="profile">Profiel</string>
+    <string name="student_score">Studente-telling</string>
+    <string name="scan_isbn">Skandeer Handboek-ISBN</string>
+
+    <string name="nav_profile">Profiel</string>
+    <string name="nav_meet">Ontmoet</string>
+    <string name="nav_sell">Verkoop</string>
+    <string name="nav_listings">Lystings</string>
+    <string name="nav_settings">Instellings</string>
+
+    <string name="full_name">Volle Naam</string>
+    <string name="save">Stoor</string>
+    <string name="saving">Stoor tans...</string>
+    <string name="language">Taal</string>
+    <string name="notifications">Kennisgewings</string>
+    <string name="notifications_desc">Stoot-kennisgewings vir boodskappe en aanbiedinge</string>
+    <string name="log_out">Meld af</string>
+
+    <string name="no_active_trade_meetings">Geen Aktiewe Ruil-ontmoetings nie</string>
+    <string name="no_meetings_desc">Maak \'n aanbod op \'n lysting, of aanvaar een op jou eie lysting, om \'n veilige, geverifieerde kampus-ontmoetingsplek te skeduleer.</string>
+    <string name="confirm_trade">Bevestig Ruil</string>
+    <string name="choose_safe_spot">Kies \'n Geverifieerde Veilige Plek</string>
+
+    <string name="member_since">Lid sedert %1$s</string>
+    <string name="trades_completed">Ruilings Voltooi</string>
+    <string name="trust_badges">Vertroue-kentekens</string>
+    <string name="no_badges_yet">Voltooi jou eerste geverifieerde ruiling om \'n kenteken te verdien.</string>
+    <string name="active_listings">Aktiewe Lystings</string>
+    <string name="locked">Gesluit</string>
+    <string name="points_to_go">%1$d pt na %2$s</string>
+    <string name="top_tier_reached">Hoogste vlak bereik!</string>
+</resources>

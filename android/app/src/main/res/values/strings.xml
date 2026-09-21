@@ -1,0 +1,53 @@
+<resources>
+    <string name="app_name">Matrix Market</string>
+    <string name="tagline">Campus Verified. The safest way to trade textbooks, gear, and essentials at your institution.</string>
+    <string name="continue_student_email">Continue with Student Email</string>
+    <string name="continue_google">Continue with Google SSO</string>
+    <string name="welcome_back">Welcome to Matrix Market</string>
+    <string name="login">Login</string>
+    <string name="create_account">Create Account</string>
+    <string name="current_listings">Current Listings</string>
+    <string name="search_hint">Search textbooks, modules, gear...</string>
+    <string name="selling">Selling</string>
+    <string name="create_new_listing">Create new listing</string>
+    <string name="publish_listing">Publish Listing</string>
+    <string name="trade_meeting">Trade Meeting</string>
+    <string name="trade_meetings">Trade Meetings</string>
+    <string name="schedule_meeting">Schedule Meeting</string>
+    <string name="settings">Settings</string>
+    <string name="profile">Profile</string>
+    <string name="student_score">Student Score</string>
+    <string name="scan_isbn">Scan Textbook ISBN</string>
+
+    <!-- Bottom navigation -->
+    <string name="nav_profile">Profile</string>
+    <string name="nav_meet">Meet</string>
+    <string name="nav_sell">Sell</string>
+    <string name="nav_listings">Listings</string>
+    <string name="nav_settings">Settings</string>
+
+    <!-- Settings screen -->
+    <string name="full_name">Full Name</string>
+    <string name="save">Save</string>
+    <string name="saving">Saving...</string>
+    <string name="language">Language</string>
+    <string name="notifications">Notifications</string>
+    <string name="notifications_desc">Push notifications for messages &amp; offers</string>
+    <string name="log_out">Log Out</string>
+
+    <!-- Trade meeting -->
+    <string name="no_active_trade_meetings">No Active Trade Meetings</string>
+    <string name="no_meetings_desc">Make an offer on a listing, or accept one on your own listing, to schedule a safe, verified campus meeting spot.</string>
+    <string name="confirm_trade">Confirm Trade</string>
+    <string name="choose_safe_spot">Choose a Verified Safe Spot</string>
+
+    <!-- Profile -->
+    <string name="member_since">Member since %1$s</string>
+    <string name="trades_completed">Trades Completed</string>
+    <string name="trust_badges">Trust Badges</string>
+    <string name="no_badges_yet">Complete your first verified trade to earn a badge.</string>
+    <string name="active_listings">Active Listings</string>
+    <string name="locked">Locked</string>
+    <string name="points_to_go">%1$d pts to %2$s</string>
+    <string name="top_tier_reached">Top tier reached!</string>
+</resources>

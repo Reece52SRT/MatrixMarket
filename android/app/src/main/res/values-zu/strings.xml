@@ -1,0 +1,49 @@
+<resources>
+    <string name="app_name">Matrix Market</string>
+    <string name="tagline">Ikhampasi Iqinisekisiwe. Indlela ephephe kakhulu yokuhwebelana ngezincwadi, izinsiza, nezidingo esikhungweni sakho.</string>
+    <string name="continue_student_email">Qhubeka nge-imeyili Yomfundi</string>
+    <string name="continue_google">Qhubeka nge-Google SSO</string>
+    <string name="welcome_back">Siyakwamukela ku-Matrix Market</string>
+    <string name="login">Ngena</string>
+    <string name="create_account">Dala i-Akhawunti</string>
+    <string name="current_listings">Izinto Ezithengiswayo</string>
+    <string name="search_hint">Sesha izincwadi, amamojula, izinsiza...</string>
+    <string name="selling">Ukuthengisa</string>
+    <string name="create_new_listing">Dala into entsha yokuthengisa</string>
+    <string name="publish_listing">Shicilela Uhlu</string>
+    <string name="trade_meeting">Umhlangano Wokuhwebelana</string>
+    <string name="trade_meetings">Imihlangano Yokuhwebelana</string>
+    <string name="schedule_meeting">Hlela Umhlangano</string>
+    <string name="settings">Izilungiselelo</string>
+    <string name="profile">Iphrofayela</string>
+    <string name="student_score">Amaphuzu Omfundi</string>
+    <string name="scan_isbn">Skena i-ISBN Yencwadi</string>
+
+    <string name="nav_profile">Iphrofayela</string>
+    <string name="nav_meet">Hlangana</string>
+    <string name="nav_sell">Thengisa</string>
+    <string name="nav_listings">Izinto</string>
+    <string name="nav_settings">Izilungiselelo</string>
+
+    <string name="full_name">Igama Eliphelele</string>
+    <string name="save">Londoloza</string>
+    <string name="saving">Iyalondoloza...</string>
+    <string name="language">Ulimi</string>
+    <string name="notifications">Izaziso</string>
+    <string name="notifications_desc">Izaziso zemiyalezo nemikhuba</string>
+    <string name="log_out">Phuma</string>
+
+    <string name="no_active_trade_meetings">Ayikho Imihlangano Yokuhwebelana Esebenzayo</string>
+    <string name="no_meetings_desc">Yenza umkhuba ohlwini, noma wamukele owodwa ohlwini lwakho, ukuze uhlele indawo yomhlangano ephephile futhi eqinisekisiwe ekhampasini.</string>
+    <string name="confirm_trade">Qinisekisa Ukuhweba</string>
+    <string name="choose_safe_spot">Khetha Indawo Ephephile Eqinisekisiwe</string>
+
+    <string name="member_since">Ilungu kusukela %1$s</string>
+    <string name="trades_completed">Ukuhweba Okuqediwe</string>
+    <string name="trust_badges">Amabheji Okwethenjwa</string>
+    <string name="no_badges_yet">Qedela ukuhweba kwakho kokuqala okuqinisekisiwe ukuze uzuze ibheji.</string>
+    <string name="active_listings">Izinto Ezisebenzayo</string>
+    <string name="locked">Ivaliwe</string>
+    <string name="points_to_go">amaphuzu angu-%1$d aya ku-%2$s</string>
+    <string name="top_tier_reached">Ufinyelele izinga eliphezulu!</string>
+</resources>

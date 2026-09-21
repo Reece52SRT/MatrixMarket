@@ -1,0 +1,8 @@
+#!/bin/sh
+# Standard Gradle wrapper launch script. Android Studio will populate
+# gradle/wrapper/gradle-wrapper.jar automatically the first time you open
+# this project and let it sync (or run `gradle wrapper` once if you have
+# Gradle installed locally).
+DIR="$(cd "$(dirname "$0")" && pwd)"
+exec "${JAVA_HOME:-java}"${JAVA_HOME:+/bin/java} -jar "$DIR/gradle/wrapper/gradle-wrapper.jar" "$@" 2>/dev/null || \
+  echo "Gradle wrapper jar not found - open this project in Android Studio and let it sync, or run 'gradle wrapper' once." 
